@@ -1,0 +1,14 @@
+<HTML>
+	<HEAD>
+	<TITLE> DISPOSITIVOS DE PROCESAMIENTO </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> DISPOSITIVOS DE PROCESAMIENTO </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P> El hardware de procesamiento es aquel que se encarga de ejecutar las instrucciones que se den desde el propio software del dispositivo. En otras palabras, la misión del hardware de procesamiento es realizar las órdenes que se vayan dando por parte del usuario del dispositivo vía software. </P>
+<LI> RAM </TD></LI>
+<LI> TARJETA MADRE </TD></LI>
+<center><A HREF="PAGINA HARDWARE.HTML"><IMG SRC="IMG DISPOSITIVOS DE PROCESAMIENTO.JPG" ALT="" WIDTH="300" HEIGH="400"></A></center>
+</BODY>
+</HTML>

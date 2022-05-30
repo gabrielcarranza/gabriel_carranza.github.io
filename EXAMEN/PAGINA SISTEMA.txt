@@ -1,0 +1,26 @@
+<HTML>
+	<HEAD>
+	<TITLE> SISTEMA </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> SISTEMA </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P>En informática, el software de sistema, denominado también software de base, es el conjunto de instrucciones que permiten el manejo de la computadora. Una computadora sin software de sistema se hace inmanejable. Consiste en un software que sirve de soporte o base para controlar e interactuar con el hardware y otros programas; en contraposición del llamado software de aplicación. Como ejemplos tenemos los sistemas operativos y los controladores.</P>
+
+<P>El software de sistema por antonomasia es Microsoft Windows, que entre todas sus versiones acumula cerca de un 90% de la cuota de mercado. Mención especial merece el proyecto GNU, cuyas herramientas de programación permitieron combinarse con el núcleo informático basado en Unix denominado Linux, formando entre ambos las conocidas como distribuciones GNU/Linux. A diferencia de la plataforma de Microsoft u otros ejemplos como Mac OS, es software libre.</P>
+
+<P>Estos programas realizan diversas tareas, como la transferencia de datos entre la memoria RAM y los dispositivos de almacenamiento (disco rígido, unidades de discos ópticos, etc), entre otros.</P>
+<P>Estos programas realizan diversas tareas, como la transferencia de datos entre la memoria RAM y los dispositivos de almacenamiento (disco rígido, unidades de discos ópticos, etc), entre otros.</P>
+<LI> Sistemas operativos (y sus componentes, muchos de los cuales pueden considerarse como software de sistema)</TD></LI>
+<LI> Controladores de dispositivos </TD></LI>
+<LI> herramientas de programacion </TD></LI>
+<LI> programas utilitarios </TD></LI>
+<LI> entorno de escritorio / interfaz grafica de usuario </TD></LI>
+<LI> linea de comandos </TD></LI>
+<LI> BIOS </TD></LI>
+<LI> Hipervisores </TD></LI>
+<LI> bootloaders </TD></LI>
+<center><A HREF="PAGINA SOFTWARE.HTML"><IMG SRC="IMG SISTEMA.JPG" ALT="SOFTWARE DE SISTEMA" WIDTH="300" HEIGH="400"></A></center>
+</BODY>
+</HTML>

@@ -1,0 +1,19 @@
+	<HEAD>
+	<TITLE> APLICACIONES </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> APLICACIONES </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P> En informática, un software de aplicación es el término que define cualquier programa que sea instalado en un ordenador con el fin de realizar las tareas que un usuario necesite. Un software de aplicación puede ser un editor de texto, una hoja de cálculo, un reproductor multimedia y otros más. Sin embargo existen programas capaces de realizar funciones mucho más complejas y llevar a cabo tareas específicas.</P>
+
+<P>De esta manera el rango de utilidad de un software de aplicación es bastante amplio, existiendo aplicaciones destinadas a resolver problemas particulares e incluso servir como medios de entretenimiento según el tipo de programa que se utilice.</P>
+
+<P>La tecnología ha avanzado considerablemente los últimos años, creando medios que facilitan a las personas la posibilidad de resolver todo tipo de problemas por medio del uso de computadoras y software. Por eso cada día se crean y actualizan nuevos softwares de aplicación con el fin de mejorar sus funcionalidades y cumplir de manera más eficaz con sus funciones. Es bastente seguro que exista un software de aplicación programado para casi cualquier cosa que se nos ocurra. </P>
+
+<CENTER>
+<A HREF="PAGINA SOFTWARE.HTML"><IMG SRC="IMG APLICACIONES.JPG" ALT="" WIDTH="300" HEIGH="400"></A>
+</OL>
+</BODY>
+</CENTER>
+</HTML>

@@ -1,0 +1,24 @@
+<HTML>
+	<HEAD>
+	<TITLE> UTILERIA </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> UTILERIA </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P>Son programas de servicios que sirven de apoyo al procesamiento de los trabajos.</P>
+<P>En informática, una utilidad es una herramienta que sirve de soporte  para la   construcción y ejecución de programas, en donde se incluyen las bibliotecas de sistema, middleware, herramientas de desarrollo, etc.</P>
+<P>Los de mantenimiento te sirven por ejemplo para Limpiar, corregir el registro, mandar los archivos obsoletos a la basura, limpiar los temporales de internet, desfragmentar disco, y las de protección Sirven para evitar ataques a tu maquina vía remota, por algún virus, etc.</P>
+<P>Ejemplos de Software de Utilería que permiten dar Mantenimiento Al sistema Operativo.</P>
+<P><LI>  * TuneUP Utilities: Es un paquete de aplicaciones cuya misión consiste en realizar un completo mantenimiento al ordenador. Entre otros propósitos, permite desfragmentar el disco duro, eliminar archivos temporales, realizar ajustes automáticos para incrementar la velocidad de navegación en Internet, desfragmentar y corregir errores del registro, así como personalizar la apariencia del sistema.</P>
+<P><LI>  * Ccleaner: Es una aplicación gratuita, de código cerrado (software no libre), que tiene como propósito mejorar el rendimiento de cualquier equipo que lo ejecute mediante la eliminación de archivos innecesarios, entradas inválidas del Registro de Windows y también cuenta con la posibilidad de desinstalar programas desde su interfaz al igual que inhabilitar la ejecución de aplicaciones en el inicio del sistema con el fin de mejorar la velocidad de arranque del sistema operativo. </P>
+<P><LI>  * Norton Utilities: Es una utilidad de software suite diseñada para ayudar a analizar, configurar, optimizar y mantener el equipo.
+<P><LI>  * jv16 PowerTools: Es una utilidad de software para la suite de Microsoft Windows sistema operativo diseñado para ayudar a analizar, optimizar y mantener el equipo. El producto permite a los usuarios mantener sus equipos en buena forma.</P>
+</UL>
+</TABLE>
+<CENTER>
+<A HREF="PAGINA SOFTWARE.HTML"><IMG SRC="IMG UTILERIA.JPG" ALT="SOFTWARE DE UTILERI" WIDTH="300" HEIGH="400"></A>
+</OL>
+</BODY>
+</CENTER>
+</HTML>

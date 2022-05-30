@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE> SOFTWARE </TITLE>
+</HEAD>
+<BODY BGCOLOR="GRAY">
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> SOFTWARE </FONT></B>
+</MARQUEE>
+<P> Software es una palabra que proviene del idioma inglés, pero que gracias a la masificación de uso, ha sido aceptada por la Real Academia Española. Según la RAE, el software es un conjunto de programas, instrucciones y reglas informáticas que permiten ejecutar distintas tareas en una computadora. Se considera que el software es el equipamiento lógico e intangible de un ordenador. </P> <P>En otras palabras, el concepto de software abarca a todas las aplicaciones informáticas, como los procesadores de textos, las planillas de cálculo, los editores de imágenes, los reproductores de audio y los videojuegos, entre otras muchas. El software se desarrolla mediante distintos lenguajes de programación, que permiten controlar el comportamiento de una máquina. </P><P>Estos lenguajes consisten en un conjunto de símbolos y reglas sintácticas y semánticas que definen el significado de sus elementos y expresiones.</P> <P>Software es un término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático. </P> <P>Comúnmente se utiliza este término para referirse de una forma muy genérica a los programas de un dispositivo informático, sin embargo, el software abarca todo aquello que es intangible en un sistema computacional. Software es un término procedente del idioma inglés, que es aceptado por la RAE y que no posee una traducción que se ajuste al español.</P>
+<TABLE BORDER=4 BORDERCOLOR="RED">
+<TR><TH> EL SOFTWARE SE DIVIDE EN: </TH></TR>
+<TR>
+<TD><LI><A HREF="PAGINA SISTEMA.HTML"> SISTEMA </TD></A></LI>
+<TD><A HREF="PAGINA SISTEMA.HTML"><IMG SRC="IMG SISTEMA.JPG" ALT="SOFTWARE DE SISTEMA" WIDTH="300" HEIGH="400"></A></TD>
+</TR>
+<TR>
+<TD><LI><A HREF="PAGINA UTILERIA.HTML"> UTILERIA </TD></A></LI>
+<TD><A HREF="PAGINA UTILERIA.HTML"><IMG SRC="IMG UTILERIA.JPG" ALT="SOFTWARE DE UTILERIA" WIDTH="300" HEIGH="400"></A></TD>
+</TR>
+<TR>
+<TD><LI><A HREF="PAGINA APLICACIONES.HTML"> APLICACIONES </TD></A></LI>
+<TD><A HREF="PAGINA APLICACIONES.HTML"><IMG SRC="IMG APLICACIONES.JPG" ALT="SOFTWARE DE APLICACIONES" WIDTH="300" HEIGH="400"></A></TD>
+</TR>
+</TABLE>
+<CENTER><P><A HREF="INDEX.HTML"> VOLVER AL MENU </BR></CENTER>
+</HTML> 

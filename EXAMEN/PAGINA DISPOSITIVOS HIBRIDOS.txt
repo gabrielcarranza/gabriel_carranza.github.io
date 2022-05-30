@@ -1,0 +1,16 @@
+<HTML>
+	<HEAD>
+	<TITLE>  </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> DISPOSITIVOS HIBRIDOS </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P> El hardware híbrido es un tipo de componente físico que puede ser parte esencial del equipo, o bien ser un elemento complementario.</P>
+<P>A ciencia cierta, sabemos que un componente al ser calificado como hardware híbrido debe poder cumplir las dos funciones, pudiendo ser hardware interno o hardware externo según se requiera </P>
+<LI> SMARTPHONES </TD></LI>
+<LI> IMPRESOA\RAS MULTIFUNCIONALES </TD></LI>
+<LI> PANTALLAS TACTILES </TD></LI>
+<center><A HREF="PAGINA HARDWARE.HTML"><IMG SRC="IMG DISPOSITIVOS HIBRIDOS.JPG" ALT="" WIDTH="300" HEIGH="400"></A></center>
+</BODY>
+</HTML>

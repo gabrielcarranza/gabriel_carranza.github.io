@@ -1,0 +1,20 @@
+<HTML>
+	<HEAD>
+	<TITLE> DISPOSITIVOS DE ALMACENAMIENTO </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> DISPOSITIVOS DE ALMACENAMIENTO </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P> Son todos los dispositivos o componentes diseñados para resguardar y almacenar información de manera tal que el sistema informático pueda tener acceso a dichos datos cuando sea necesario. En este tipo de hardwares se encuentra la memoria RAM, unidades de disco rígido, memorias flash, SSD, y otros dispositivos que cumplen el mismo fin. </P>
+<LI> DISCO DURO </TD></LI>
+<LI> DVD </TD></LI>
+<LI> CD </TD></LI>
+<LI> PENDRIVE </TD></LI>
+<LI> TARJETA SD </TD></LI>
+<LI> MEMORY STICK </TD></LI>
+<LI> DISCO DURO PORTATIL </TD></LI>
+<LI> DISQUETE </TD></LI>
+<center><A HREF="PAGINA HARDWARE.HTML"><IMG SRC="IMG DISPOSITIVOS DE ALMACENAMIENTO.JPG" ALT="" WIDTH="300" HEIGH="400"></A></center>
+</BODY>
+</HTML>

@@ -1,0 +1,23 @@
+<HTML>
+	<HEAD>
+	<TITLE> DISPOSITIVOS DE ENTRADA </TITLE>
+	</HEAD>
+<MARQUEE BGCOLOR=""#006699" BEHAVIOR="ALTERNATE" DIRECTION="RIGHT">
+<B><FONT COLOR="FFFFCC" SIZE="6"> DISPOSITIVOS DE ENTRADA </FONT></B>
+</MARQUEE>
+<BODY BGCOLOR="LIGHTSEAGREEN">
+<P> En informática, se conoce como dispositivos de entrada o dispositivos de alimentación (input) a los aparatos que permiten ingresar información al sistema informático, ya sea proveniente del usuario o de otra computadora. Por ejemplo: el teclado, el mouse o el micrófono.</p>
+<p>Los distintos dispositivos de entrada traducen los datos en impulsos eléctricos, que luego son transmitidos a la computadora para su procesamiento y almacenamiento en la memoria central o interna. Estos dispositivos son fundamentales porque permiten que el usuario pueda hacer uso de la computadora e interactuar con ella.</P>
+<LI> teclado </TD></LI>
+<LI> mouse </TD></LI>
+<LI> joy stick </TD></LI>
+<LI> pluma de luz </TD></LI>
+<LI> bola de pista </TD></LI>
+<LI> escaner </TD></LI>
+<LI> tableta digitalizadora </TD></LI>
+<LI> microfono </TD></LI>
+<LI> lector de codigo de barras </TD></LI>
+<LI> caracter optico reader </TD></LI>
+<center><A HREF="PAGINA HARDWARE.HTML"><IMG SRC="IMG DISPOSITIVOS DE ENTRADA.JPG" ALT="DISPOSITIVO DE ENTRADA" WIDTH="300" HEIGH="400"></A></center>
+</BODY>
+</HTML>
